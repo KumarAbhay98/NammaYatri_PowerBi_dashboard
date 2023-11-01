@@ -30,8 +30,10 @@ For this analysis, we have created a set of informative dashboards using a gradi
   - "Top 10 Destination Cities with % Successful Trips": Displays the top 10 cities of trip destinations and their success rate.
     
 ## Dashboards:
-<img width="454" alt="nammayatriPowerbiss" src="https://github.com/KumarAbha<img width="460" alt="NammayatriPowerbi2ss" src="https://github.com/KumarAbhay98/NammaYatri_PowerBi_dashboard/assets/92244303/bdece277-4814-4580-96dd-1b0da5c3bba9">
-y98/NammaYatri_PowerBi_dashboard/assets/92244303/fca06e5a-45a2-4da2-9124-e9af1b8ba229">
+<img width="454" alt="nammayatriPowerbiss" src="https://github.com/KumarAbhay98/NammaYatri_PowerBi_dashboard/assets/92244303/41bb4210-4f46-42b9-a41a-97df80ca1241">
+
+<img width="460" alt="NammayatriPowerbi2ss" src="https://github.com/KumarAbhay98/NammaYatri_PowerBi_dashboard/assets/92244303/75c46cb2-7bfc-457d-a145-44ccd603aff8">
+
 
 
 ## Getting Started
