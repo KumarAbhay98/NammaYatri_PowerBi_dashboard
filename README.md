@@ -11,21 +11,20 @@ For this analysis, we have created a set of informative dashboards using a gradi
 ### Dashboard 1: Trips Overview
 
 - **Stacked Bar Chart**: Displays the count of total trips per city (assembly), including both successful and unsuccessful trips.
-
+  
+- **Stacked Bar Chart**: Represents the total fare per city (assembly), giving an overview of revenue generated in different locations.
+  
 - **Pie Chart**: Shows the distribution of fares by payment method, indicating the percentage of each payment method used.
-
+  
 - **City Slicer**: A drop-down slicer that allows users to filter data by city, providing insights specific to the selected city.
 
-### Dashboard 2: Driver Earnings
+### Driver Earnings
 
 - **Stacked Column Chart**: Visualizes the top 5 drivers based on earnings, providing a clear comparison of their performance.
+- 
+-  **Pie Chart**: Highlights the cities most frequently searched as destinations, helping identify popular travel destinations.
 
-- **Stacked Bar Chart**: Represents the total fare per city (assembly), giving an overview of revenue generated in different locations.
-
-### Dashboard 3: Destination Insights
-
-- **Pie Chart**: Highlights the cities most frequently searched as destinations, helping identify popular travel destinations.
-
+### Dashboard 2: Destination Insights
 - **Donut Charts**:
   - "Top 10 Source Cities with % Successful Trips": Shows the top 10 cities of trip origination and the percentage of successful trips.
   - "Top 10 Destination Cities with % Successful Trips": Displays the top 10 cities of trip destinations and their success rates.
