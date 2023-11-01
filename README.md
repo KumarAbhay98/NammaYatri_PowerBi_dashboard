@@ -35,6 +35,8 @@ For this analysis, we have created a set of informative dashboards using a gradi
 <img width="460" alt="NammayatriPowerbi2ss" src="https://github.com/KumarAbhay98/NammaYatri_PowerBi_dashboard/assets/92244303/75c46cb2-7bfc-457d-a145-44ccd603aff8">
 
 
+## Tables
+<img width="182" alt="nammayatri" src="https://github.com/KumarAbhay98/NammaYatri_PowerBi_dashboard/assets/92244303/f608e55f-729c-450c-9d61-ad7f99f00482">
 
 ## Getting Started
 
