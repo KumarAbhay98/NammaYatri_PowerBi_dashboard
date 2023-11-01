@@ -21,7 +21,7 @@ For this analysis, we have created a set of informative dashboards using a gradi
 ### Driver Earnings
 
 - **Stacked Column Chart**: Visualizes the top 5 drivers based on earnings, providing a clear comparison of their performance.
-- 
+  
 -  **Pie Chart**: Highlights the cities most frequently searched as destinations, helping identify popular travel destinations.
 
 ### Dashboard 2: Destination Insights
